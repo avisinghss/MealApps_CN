@@ -23,7 +23,11 @@ The goal of this project is to create a meal app that allows users to store and 
 ## API
 
  TheMeal API: https://www.themealdb.com/api.php
+ 
+## Hosting Link
 
+ https://avisinghss.github.io/MealApps_CN/
+ 
 ## Acknowledgements
 
 - This project was developed as part of Skill Test in Coding Ninjas, and it was inspired by the need to create a meal app using only vanilla JavaScript.
